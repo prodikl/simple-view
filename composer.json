@@ -1,0 +1,7 @@
+{
+  "name":"prodikl/simple-view",
+  "description":"A simple to use, basic View object.",
+  "require" : {
+    "php" : "^5.0.0"
+  }
+}
