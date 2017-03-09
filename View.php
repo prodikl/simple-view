@@ -1,10 +1,10 @@
 <?php
 
+namespace prodikl\View;
+
 /**
- * Created by PhpStorm.
- * User: Keith
- * Date: 2/25/2017
- * Time: 12:09 PM
+ * Created by Keith Larson
+ * keith@prodikl.com
  */
 class View
 {
