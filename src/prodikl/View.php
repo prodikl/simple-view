@@ -9,7 +9,7 @@ namespace prodikl;
 class View
 {
     /** @var  array[]       The values */
-    protected $values;
+    protected $values = [];
     /** @var string         The file to load */
     protected $file;
 
