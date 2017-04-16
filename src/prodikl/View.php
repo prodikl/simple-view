@@ -59,4 +59,9 @@ class View
         require($this->file);
         return ob_get_clean();
     }
+
+    public function __toString()
+    {
+        return $this->renderAsString();
+    }
 }
