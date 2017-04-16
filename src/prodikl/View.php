@@ -1,6 +1,6 @@
 <?php
 
-namespace prodikl\View;
+namespace prodikl;
 
 /**
  * Created by Keith Larson
